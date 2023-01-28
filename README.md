@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khatamov Nuriddin (KNCoder)</h1>
 <h3 align="center">I'm a Web Devloper from Uzbekistan.</h3>
 
-<a href="#"><img width="100%" height="auto" src="https://www.omgleads.com/img/programmer.jpg" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://abrakadabra.fun/uploads/posts/2022-02/1646056650_28-abrakadabra-fun-p-frilans-art-58.png" height="150px"/></a>
 
 <h3>✰ About Me ✰</h3> <br/>
 
