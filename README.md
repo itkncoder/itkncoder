@@ -3,7 +3,8 @@
 <h3 align="center">I'm a Web Devloper from Uzbekistan.</h3>
 <h4 align="center">You can know me by my nickname KNCoder.</h4>
 
-<img src="https://i.pinimg.com/originals/54/4d/0a/544d0a38e428d5199c5611511be153f0.jpg" >
+
+<img src="https://www.techinexpert.com/wp-content/uploads/2021/02/08-01-_-banner-alt-1024x682.png" >
 
 <h3>✰ About Me ✰</h3> <br/>
 
