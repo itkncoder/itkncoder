@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khatamov Nuriddin (KNCoder)</h1>
-<h3 align="center">I'm A Front-End Devloper from Uzbekistan.</h3>
+<h3 align="center">I'm a Web Devloper from Uzbekistan.</h3>
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/cb/19/f5/cb19f55ba027a4d589c69e038e86ef82.png" height="175px"/></a>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m a **Web developer.**
 
-- 📫 Contact **t.me/kncoder**
+- 📫 Contact **<a href="https://t.me/kncoder">kncoder</a>**
 
 - ⚡ My telegram channel **[here](https://t.me/kncoderc)**
 
