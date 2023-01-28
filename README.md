@@ -7,7 +7,6 @@
 <img src="https://i.pinimg.com/originals/cb/19/f5/cb19f55ba027a4d589c69e038e86ef82.png" >
 
 <h3>✰ About Me ✰</h3> <br/>
-
 - 🌱 I’m a **Web developer.**
 
 - 📫 Contact **<a href="https://t.me/kncoder">kncoder</a>**
