@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khatamov Nuriddin (KNCoder)</h1>
 <h3 align="center">I'm a Web Devloper from Uzbekistan.</h3>
 
-<!-- <a href="#"><img width="100%" height="auto" src="" height="150px"/></a> -->
+<h4 align="center">You can know me by my nickname KNCoder.</h4>
 
 <h3>✰ About Me ✰</h3> <br/>
 
