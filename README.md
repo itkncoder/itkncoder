@@ -4,7 +4,7 @@
 <h4 align="center">You can know me by my nickname KNCoder.</h4>
 
 
-<img src="https://powerlanguage.net/wp-content/uploads/2019/10/busy-term.jpg" >
+<img src="https://i.pinimg.com/originals/cb/19/f5/cb19f55ba027a4d589c69e038e86ef82.png" >
 
 <h3>✰ About Me ✰</h3> <br/>
 
