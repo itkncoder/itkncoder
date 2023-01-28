@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Khatamov Nuriddin (KNCoder)</h1>
 <h3 align="center">I'm a Web Devloper from Uzbekistan.</h3>
 
-
-<a href="#"><img width="80%" height="auto" src="https://static.tildacdn.com/tild3138-3533-4566-b337-653064333831/clip-programming.png" height="175px"/></a>
-
+<a href="#"><img width="100%" height="auto" src="https://static.tildacdn.com/tild3138-3533-4566-b337-653064333831/clip-programming.png" height="150px"/></a>
 
 <h3>✰ About Me ✰</h3> <br/>
 
