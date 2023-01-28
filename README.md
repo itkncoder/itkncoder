@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fayziyev Azizbek</h1>
+<h1 align="center">Hi, I'm Khatamov Nuriddin (KNCoder)</h1>
 <h3 align="center">I'm A Front-End Devloper from Uzbekistan.</h3>
 
 
