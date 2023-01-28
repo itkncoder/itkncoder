@@ -4,7 +4,7 @@
 <h4 align="center">You can know me by my nickname KNCoder.</h4>
 
 
-<img src="https://www.techinexpert.com/wp-content/uploads/2021/02/08-01-_-banner-alt-1024x682.png" >
+<img src="https://powerlanguage.net/wp-content/uploads/2019/10/busy-term.jpg" >
 
 <h3>✰ About Me ✰</h3> <br/>
 
