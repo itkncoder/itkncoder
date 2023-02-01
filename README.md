@@ -1,6 +1,4 @@
-# Hi there 👋
-
-![KNCoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Khatamov+Nuriddin;KNCoder)
+![KNCoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there+Khatamov+Nuriddin;KNCoder)
 
 
 ## 🎓 I'm KNCoder
