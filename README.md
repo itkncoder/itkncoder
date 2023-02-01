@@ -15,12 +15,6 @@
 
 <br/>
 
-<div>
-<img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
-</div>
-
-<br/>
-
 ## KNCoder's favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
