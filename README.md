@@ -3,13 +3,11 @@
 ![KNCoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Khatamov+Nuriddin;KNCoder)
 
 
-## 🎓 I'm KNCoder | Web Developer!!
-- ✍ You can find my projects here in my GitHub
+## 🎓 I'm KNCoder
+- ✍ You can find my projects here
 - 🔭 I’m currently working on creative web sites
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 2 languages ( English, Russian)
 
 ### Skills:
 - HTML, CSS
