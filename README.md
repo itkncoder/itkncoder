@@ -92,14 +92,6 @@
 
 </table>
 
-
-
-<br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itkncoder&show_icons=true&locale=en" alt="KNCoder" width="300" />
-</p>
-<br/>
-
 <br/>
 
 
