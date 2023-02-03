@@ -2,10 +2,7 @@
 
 
 ## 🎓 I am a Web Developer KNCoder
-- ✍ You can find my projects here
-- 🔭 I’m currently working on creative web sites
-- 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on open source
+
 <br/>
 ## KNCoder's favorite tools and technologies ⚙️ 
 
