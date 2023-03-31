@@ -98,7 +98,7 @@
 
 
 
-## :trophy: KNCoder's Github Stats:
+## :trophy: innoxee's Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innoxee&theme=github_dark) 
 
