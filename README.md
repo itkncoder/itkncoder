@@ -1,4 +1,4 @@
-![KNCoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Khatamov+Nuriddin;I'm+KNCoder!)
+![KNCoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Khatamov+Nuriddin;I'm+innoxee!)
 
 
 ## 🎓 I am a Web Developer |  KNCoder
@@ -100,7 +100,7 @@
 
 ## :trophy: KNCoder's Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkncoder&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innoxee&theme=github_dark) 
 
 
 
@@ -109,10 +109,10 @@
 
 <p align="center">
     
-<a href="https://github.com/itkncoder/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=itkncoder">
+<a href="https://github.com/innoxee/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=innoxee">
 </a>
-    <a href="https://github.com/itkncoder?tab=followers">
-        <img src="https://img.shields.io/github/followers/itkncoder?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/innoxee?tab=followers">
+        <img src="https://img.shields.io/github/followers/innoxee?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
