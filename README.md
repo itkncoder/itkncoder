@@ -4,7 +4,7 @@
 ## 🎓 I am a Web Developer |  KNCODER
 - ✍ You can find my projects here
 - ✓ I’m currently working on creative web sites
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently creating start ups
 - 👯 I’m looking to collaborate on open source
 <br/>
 ## My favorite tools and technologies ⚙️ 
